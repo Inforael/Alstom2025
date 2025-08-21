@@ -24,7 +24,7 @@ git branch -D Goku = para deletar branch
 no desktop abrir o cmd, dentro do terminal digitar 
 git clone https://github.com/Inforael/Alstom2025.git link pego do repositorio github
 git push origin Goku =  para enviar os arquivos do git local para github use esse comando apartir da branch.
-
+git pull = Entrar na sua main local e usar esse cmd para baixar arquivos da main nuvem 
 
 
 
